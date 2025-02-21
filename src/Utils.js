@@ -3,7 +3,7 @@ export const cardData = [
   "info": {
     "id": "651018",
     "name": "Pizza Hut",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/911b54ea-0506-409c-b3e8-ad7163e1d643_651018.jpg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Mini bypass",
     "areaName": "Nellore",
     "costForTwo": "₹350 for two",
@@ -25,7 +25,7 @@ export const cardData = [
   "info": {
     "id": "427148",
     "name": "The Biryani Life",
-    "cloudinaryImageId": "oq2hlnrultqivuhlf3u2",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Magunta Layout",
     "areaName": "Central Avenue",
     "costForTwo": "₹250 for two",
@@ -47,7 +47,7 @@ export const cardData = [
   "info": {
     "id": "566503",
     "name": "Faasos' Signature Wraps & Rolls",
-    "cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+    "cloudinaryImageId": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Central Avenue",
     "areaName": "Magunta Layout",
     "costForTwo": "₹350 for two",
@@ -69,7 +69,7 @@ export const cardData = [
   "info": {
     "id": "103738",
     "name": "Muralikrishna Ghee Sweets",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/25/d4899800-b24d-4c38-bc1e-8f17f831b9ff_103738.jpg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Madras Busstand",
     "areaName": "NELLORE AREA",
     "costForTwo": "₹500 for two",
@@ -91,7 +91,7 @@ export const cardData = [
   "info": {
     "id": "479883",
     "name": "Asli nellore family dhaba and restaurant",
-    "cloudinaryImageId": "ttleqyn2i8b2kmmsyspg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Jagadeesh Nagar",
     "areaName": "Magunta Layout", 
     "costForTwo": "₹300 for two",
@@ -113,7 +113,7 @@ export const cardData = [
   "info": {
     "id": "98206",
     "name": "McDonald's",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/9/18/bb8375c9-0cc2-40fa-b15f-f7d0d43e0663_98206.jpg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "MGB Felicity Mall",
     "areaName": "MGB Felicity Mall",
     "costForTwo": "₹400 for two",
@@ -135,7 +135,7 @@ export const cardData = [
   "info": {
     "id": "458212",
     "name": "KFC",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/9/a8ad335d-9fcf-4dc1-968b-17fb735d4974_458212.JPG",
+    "cloudinaryImageId": "https://images.pexels.com/photos/955137/pexels-photo-955137.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "CTR Arcade",
     "areaName": "Ramamurthy Nagar",
     "costForTwo": "₹400 for two",
@@ -157,7 +157,7 @@ export const cardData = [
   "info": {
     "id": "109746",
     "name": "Madhura Sweets",
-    "cloudinaryImageId": "sjarddkwnbvboif3mzol",
+    "cloudinaryImageId": "https://images.pexels.com/photos/769969/pexels-photo-769969.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Santhapet Road",
     "areaName": "Subedarpet",
     "costForTwo": "₹200 for two",
@@ -179,7 +179,7 @@ export const cardData = [
   "info": {
     "id": "103740",
     "name": "Muralikrishna Veg",
-    "cloudinaryImageId": "aroxt9etv0xhtzwtbi4l",
+    "cloudinaryImageId": "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Madras Busstand",
     "areaName": "Magunta Layout",
     "costForTwo": "₹200 for two",
@@ -201,7 +201,7 @@ export const cardData = [
   "info": {
     "id": "96590",
     "name": "Domino's Pizza",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/17/1de7ea43-359f-413b-9ddc-74e7d4716ebd_96590.JPG",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1132558/pexels-photo-1132558.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Mini Bypass Road",
     "areaName": "Ramamurthy Nagar",
     "costForTwo": "₹400 for two",
@@ -223,7 +223,7 @@ export const cardData = [
   "info": {
     "id": "105993",
     "name": "Komala Vilas",
-    "cloudinaryImageId": "dxz1gezwa2alyqfkdwbi",
+    "cloudinaryImageId": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Gandhi Statue Road",
     "areaName": "Magunta Layout",
     "costForTwo": "₹200 for two",
@@ -245,7 +245,7 @@ export const cardData = [
   "info": {
     "id": "735322",
     "name": "Firangi Falooda",
-    "cloudinaryImageId": "5bc22aacd9519670794db0bc6964ae91",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Gayathri Nagar",
     "areaName": "Nellore Area",
     "costForTwo": "₹250 for two",
@@ -267,7 +267,7 @@ export const cardData = [
   "info": {
     "id": "427141",
     "name": "Faasos - Wraps, Rolls & Shawarma",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/28/110939e3-ed2b-4042-b633-b094e0500d22_427141.JPG",
+    "cloudinaryImageId": "https://images.pexels.com/photos/628776/pexels-photo-628776.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Magunta Layout",
     "areaName": "Central Avenue",
     "costForTwo": "₹200 for two",
@@ -289,7 +289,7 @@ export const cardData = [
   "info": {
     "id": "393346",
     "name": "Chaat Bazaar",
-    "cloudinaryImageId": "bkbvit2za9affdrp2xmz",
+    "cloudinaryImageId": "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Gandhi Nagar",
     "areaName": "Gandhi Nagar",
     "costForTwo": "₹300 for two",
@@ -312,7 +312,7 @@ export const cardData = [
   "info": {
     "id": "408597",
     "name": "Ravi Fast Food",
-    "cloudinaryImageId": "s4tdiahuip7naeyfqkwy",
+    "cloudinaryImageId": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "VRC Centre",
     "areaName": "Achari Street",
     "costForTwo": "₹250 for two",
@@ -334,7 +334,7 @@ export const cardData = [
   "info": {
     "id": "735758",
     "name": "Red Bucket Biryani",
-    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/21/902b5fcb-ee94-4bf1-bec4-fc92e6bee39e_735758 ss.jpg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Trunk Road",
     "areaName": "Magunta Layout",
     "costForTwo": "₹499 for two",
@@ -356,7 +356,7 @@ export const cardData = [
   "info": {
     "id": "396727",
     "name": "Grameen Kulfi",
-    "cloudinaryImageId": "pv2tjdsmrbnyezxuewwg",
+    "cloudinaryImageId": "https://images.pexels.com/photos/568370/pexels-photo-568370.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Balaji Nagar",
     "areaName": "AC Nagar",
     "costForTwo": "₹120 for two",
@@ -378,7 +378,7 @@ export const cardData = [
   "info": {
     "id": "99238",
     "name": "Amigos",
-    "cloudinaryImageId": "ovh1vesynqjezgxjrzpe",
+    "cloudinaryImageId": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Srihari Nagar",
     "areaName": "Nellore Area",
     "costForTwo": "₹350 for two",
@@ -400,7 +400,7 @@ export const cardData = [
   "info": {
     "id": "488922",
     "name": "The Legendairy Milkshakes",
-    "cloudinaryImageId": "d576868d5a529d19dca25a968aba8a16",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Santhapet Road",
     "areaName": "Balaji nagar",
     "costForTwo": "₹250 for two",
@@ -422,7 +422,7 @@ export const cardData = [
   "info": {
     "id": "629409",
     "name": "Dum Safar Biryani",
-    "cloudinaryImageId": "1154cffac2453eb0bf7fdda7e5ea1659",
+    "cloudinaryImageId": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
     "locality": "Grand Trunk Road",
     "areaName": "Saraswathi Nagar",
     "costForTwo": "₹500 for two",
