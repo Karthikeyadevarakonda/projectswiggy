@@ -3,7 +3,7 @@ export const cardData = [
   "info": {
     "id": "651018",
     "name": "Pizza Hut",
-    "cloudinaryImageId": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
     "locality": "Mini bypass",
     "areaName": "Nellore",
     "costForTwo": "₹350 for two",
@@ -25,7 +25,7 @@ export const cardData = [
   "info": {
     "id": "427148",
     "name": "The Biryani Life",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
     "locality": "Magunta Layout",
     "areaName": "Central Avenue",
     "costForTwo": "₹250 for two",
@@ -47,7 +47,7 @@ export const cardData = [
   "info": {
     "id": "566503",
     "name": "Faasos' Signature Wraps & Rolls",
-    "cloudinaryImageId": "https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
     "locality": "Central Avenue",
     "areaName": "Magunta Layout",
     "costForTwo": "₹350 for two",
@@ -69,7 +69,7 @@ export const cardData = [
   "info": {
     "id": "103738",
     "name": "Muralikrishna Ghee Sweets",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
     "locality": "Madras Busstand",
     "areaName": "NELLORE AREA",
     "costForTwo": "₹500 for two",
@@ -91,7 +91,7 @@ export const cardData = [
   "info": {
     "id": "479883",
     "name": "Asli nellore family dhaba and restaurant",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1211887/pexels-photo-1211887.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
     "locality": "Jagadeesh Nagar",
     "areaName": "Magunta Layout", 
     "costForTwo": "₹300 for two",
@@ -113,7 +113,7 @@ export const cardData = [
   "info": {
     "id": "98206",
     "name": "McDonald's",
-    "cloudinaryImageId": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
     "locality": "MGB Felicity Mall",
     "areaName": "MGB Felicity Mall",
     "costForTwo": "₹400 for two",
@@ -135,7 +135,7 @@ export const cardData = [
   "info": {
     "id": "458212",
     "name": "KFC",
-    "cloudinaryImageId": "https://images.pexels.com/photos/955137/pexels-photo-955137.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
     "locality": "CTR Arcade",
     "areaName": "Ramamurthy Nagar",
     "costForTwo": "₹400 for two",
@@ -157,7 +157,7 @@ export const cardData = [
   "info": {
     "id": "109746",
     "name": "Madhura Sweets",
-    "cloudinaryImageId": "https://images.pexels.com/photos/769969/pexels-photo-769969.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
     "locality": "Santhapet Road",
     "areaName": "Subedarpet",
     "costForTwo": "₹200 for two",
@@ -179,7 +179,7 @@ export const cardData = [
   "info": {
     "id": "103740",
     "name": "Muralikrishna Veg",
-    "cloudinaryImageId": "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
     "locality": "Madras Busstand",
     "areaName": "Magunta Layout",
     "costForTwo": "₹200 for two",
@@ -201,7 +201,7 @@ export const cardData = [
   "info": {
     "id": "96590",
     "name": "Domino's Pizza",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1132558/pexels-photo-1132558.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
     "locality": "Mini Bypass Road",
     "areaName": "Ramamurthy Nagar",
     "costForTwo": "₹400 for two",
@@ -223,7 +223,7 @@ export const cardData = [
   "info": {
     "id": "105993",
     "name": "Komala Vilas",
-    "cloudinaryImageId": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
     "locality": "Gandhi Statue Road",
     "areaName": "Magunta Layout",
     "costForTwo": "₹200 for two",
@@ -245,7 +245,7 @@ export const cardData = [
   "info": {
     "id": "735322",
     "name": "Firangi Falooda",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1860204/pexels-photo-1860204.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
     "locality": "Gayathri Nagar",
     "areaName": "Nellore Area",
     "costForTwo": "₹250 for two",
@@ -267,7 +267,7 @@ export const cardData = [
   "info": {
     "id": "427141",
     "name": "Faasos - Wraps, Rolls & Shawarma",
-    "cloudinaryImageId": "https://images.pexels.com/photos/628776/pexels-photo-628776.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
     "locality": "Magunta Layout",
     "areaName": "Central Avenue",
     "costForTwo": "₹200 for two",
@@ -289,7 +289,7 @@ export const cardData = [
   "info": {
     "id": "393346",
     "name": "Chaat Bazaar",
-    "cloudinaryImageId": "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/cb5669c8-d6f1-46ab-b24d-3da99b9fa32c_tea.png",
     "locality": "Gandhi Nagar",
     "areaName": "Gandhi Nagar",
     "costForTwo": "₹300 for two",
@@ -312,7 +312,7 @@ export const cardData = [
   "info": {
     "id": "408597",
     "name": "Ravi Fast Food",
-    "cloudinaryImageId": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
     "locality": "VRC Centre",
     "areaName": "Achari Street",
     "costForTwo": "₹250 for two",
@@ -334,7 +334,7 @@ export const cardData = [
   "info": {
     "id": "735758",
     "name": "Red Bucket Biryani",
-    "cloudinaryImageId": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
     "locality": "Trunk Road",
     "areaName": "Magunta Layout",
     "costForTwo": "₹499 for two",
@@ -356,7 +356,7 @@ export const cardData = [
   "info": {
     "id": "396727",
     "name": "Grameen Kulfi",
-    "cloudinaryImageId": "https://images.pexels.com/photos/568370/pexels-photo-568370.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Biryani.png",
     "locality": "Balaji Nagar",
     "areaName": "AC Nagar",
     "costForTwo": "₹120 for two",
@@ -378,7 +378,7 @@ export const cardData = [
   "info": {
     "id": "99238",
     "name": "Amigos",
-    "cloudinaryImageId": "https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Noodles.png",
     "locality": "Srihari Nagar",
     "areaName": "Nellore Area",
     "costForTwo": "₹350 for two",
@@ -400,7 +400,7 @@ export const cardData = [
   "info": {
     "id": "488922",
     "name": "The Legendairy Milkshakes",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
     "locality": "Santhapet Road",
     "areaName": "Balaji nagar",
     "costForTwo": "₹250 for two",
@@ -422,7 +422,7 @@ export const cardData = [
   "info": {
     "id": "629409",
     "name": "Dum Safar Biryani",
-    "cloudinaryImageId": "https://images.pexels.com/photos/1907244/pexels-photo-1907244.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "cloudinaryImageId": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/MERCHANDISING_BANNERS/IMAGES/MERCH/2025/1/24/897bc750-6b57-4e7d-9365-87c1ab2c6d7e_Chinese2.png",
     "locality": "Grand Trunk Road",
     "areaName": "Saraswathi Nagar",
     "costForTwo": "₹500 for two",

@@ -13,8 +13,8 @@ const Card = ({info}) => {
 
   
   return (
-    <div className="shadow p-4 w-[48%] sm:w-[48%] h-64 sm:h-64 md:h-90  md:w-[48%] lg:w-[24%] bg-white rounded ">
-        <div className="w-35 h-30 md:w-55 md:h-40 rounded  overflow-hidden m-auto shadow">
+    <div className=" p-4 w-[48%] sm:w-[48%] h-64 sm:h-64 md:h-90  md:w-[48%] lg:w-[24%] bg-white rounded ">
+        <div className="w-30 h-30 md:w-45 md:h-45 rounded  overflow-hidden m-auto ">
             <img src={cloudinaryImageId} className="w-full h-full rounded shadow" alt="ProductImage" />
         </div>
        
